@@ -15,4 +15,7 @@ Change the destination sub-folder names based on the file type
 "MP4"    { $SubFolder = "High" }
 default  { $SubFolder = "" }
 
+Execution: Install powershell and download Move Camera files.ps1 to you pc. Right click and execute with powershell after updating
+the source and destination in the script
+
 
